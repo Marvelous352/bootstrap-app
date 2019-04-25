@@ -1,0 +1,71 @@
+.strong{
+		color:#34a875;
+	}
+  .parent{
+  		background-color: grey;
+  		text-align: center;
+			padding-bottom:20px;
+  		overflow: hidden;
+    }
+    .Download{
+			background-image: url(images/nature.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			padding-bottom:40px;
+			text-align: center;
+			margin-bottom: 40px;
+			color: #35a071;
+
+    }
+
+		.margin{
+			margin-top: '-150px'
+		}
+		.background{
+			background-image: url(images/nature.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			padding-top: 40px;
+			padding-bottom: 40px;
+			color: white;
+			margin-top: 60px;
+		}
+		/* .back{
+			background-color: rgba(4, 69, 107, 0.6);
+		} */
+		.formInput{
+			  width: 95%;
+      border: 2px solid #32CD32;
+      padding: 10px;
+		}
+
+		.form-select{
+		width: 100%;
+		border: 2px solid #32CD32;
+		padding: 10px;
+	}
+	.table2{
+			text-align: center;
+			background-image: url("images/nature.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			color: white;
+			margin-top: 40px;
+
+		}
+		.content{
+			margin: auto;
+			color: white;
+			border: none;
+			border-collapse: collapse;
+		}
+
+		.content td, th{
+			padding: 10px;
+		}
+		.expenses{
+			background-color: rgba(4, 69, 107, 0.6);
+			padding: 80px;
+
+
+		}
